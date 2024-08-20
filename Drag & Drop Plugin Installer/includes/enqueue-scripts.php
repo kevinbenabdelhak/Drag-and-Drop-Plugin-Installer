@@ -3,7 +3,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 add_action('admin_enqueue_scripts', 'enqueue_custom_drag_drop_menu_scripts');
 
 function enqueue_custom_drag_drop_menu_scripts() {
