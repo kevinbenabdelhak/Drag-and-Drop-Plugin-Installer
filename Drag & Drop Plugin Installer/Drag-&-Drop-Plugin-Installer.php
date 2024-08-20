@@ -10,7 +10,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 // Include required files
 require_once plugin_dir_path(__FILE__) . 'includes/enqueue-scripts.php';
 require_once plugin_dir_path(__FILE__) . 'includes/upload-handler.php';
