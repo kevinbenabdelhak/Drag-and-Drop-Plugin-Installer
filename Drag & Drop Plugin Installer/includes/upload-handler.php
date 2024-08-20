@@ -3,7 +3,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-
 add_action('wp_ajax_upload_plugin_action', 'handle_plugin_upload');
 
 function handle_plugin_upload() {
