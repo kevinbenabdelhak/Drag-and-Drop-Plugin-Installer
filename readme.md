@@ -1,5 +1,6 @@
 # Drag & Drop Plugin Installer
 
+
 **Contributors**: kevinbenabdelhak  
 **Requires at least**: 5.0  
 **Tested up to**: 6.5.3  
