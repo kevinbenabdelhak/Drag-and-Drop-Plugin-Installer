@@ -23,5 +23,6 @@ La zone de glisser-déposer apparaîtra dans votre menu d'administration WordPre
 = Quels types de fichiers sont supportés ? =
 Actuellement, seuls les fichiers .zip contenant des extensions WordPress sont supportés.
 
+
 = Puis-je téléverser plusieurs extensions à la fois ? =
 Oui, vous pouvez glisser-déposer plusieurs fichiers .zip à la fois.
